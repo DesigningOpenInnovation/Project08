@@ -19,3 +19,5 @@ You can add pictures on your profile to show what kinds of dressess attract your
 You can co create your own styles by combining the different items available online. Others can comment on your designed outfit.            It can also have a phot hub where you post pictures of your self in the dresses you bought using this service.
 
 Give up from old - get a new one!
+
+I like the idea with the outfits virtual market! :)
