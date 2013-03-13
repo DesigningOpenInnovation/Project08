@@ -3,19 +3,19 @@ Project08
 
 Gard.e.robe - Co-create Your Style!
 
-Would you like to buy a new dress for the next party without having a bad conscious of having already many dresses in your wardrobe?
-What would you think if you could sell your dress easily to someone who is in the same situation in order to be able to buy another one with affordable price?
-Wouldn't it be great to know what to wear in different situations and share style tips to others?
-And isn't it so that you would like to do all that in a convenient and transparent way without putting extra effort in finding the suitable second-hand marketplace?
+Would you like to get a new dress for the next party but you don't know which one and where to buy it?
+What would you think if you could sell your too small dresses easily and to be able to buy another one with affordable price?
+Wouldn't it be great to know what to wear in different situations, to test which accessories match well with your dress and to share style tips to others?
+And isn't it so that you would like to do all that in a convenient and transparent way?
 
 Now it is possible - with Gard.e.robe! 
 
 So how does it work?
 
 Create a profile at Gard.e.robe website, take a picture of the clothes you want to sell, upload the picture online, set a price and give a size and quality description.
-At the same time you ask for help i.e. "what should I wear for the wedding" from the community, give recommendations to others, browse ideas, create outfits from all items available, save pictures that you like in your profile and reply to other offers
-Once someone is interested to buy your clothes, you answer to the request and take care of delivering the items through our global delivery service or by yourself if you live in the same city
-After the package is received by the buyer, the seller gets the money and the buyer can leave comments on the profile page of the seller
+At the same time you can ask for help i.e. "what should I wear for the wedding" from the community, give recommendations to others, browse ideas, create outfits from all items available, save clothes and outfits that you like in your profile and reply to offers.
+Once someone is interested to buy your clothes, you answer to the request and take care of delivering the items through our global delivery service or by yourself if you live in the same city. 
+After the package is received by the buyer, the seller gets the money and the buyer can leave comments about the received piece of clothing on the profile page of the seller.
 
 The power of the community allows the development and transparency of the service.
 
