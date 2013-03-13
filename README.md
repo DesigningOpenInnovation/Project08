@@ -1,26 +1,26 @@
 Project08
 =========
-(Delicious Leftovers: what to cook from the food that is left from a meal?)
 
-What will you do with your old clothes? - especially those beautiful dresses that you don't use anymore!
-Would you like to sell them to someone to be able to buy a new dress for yourself?
-Or would you like to co-create fashion with others?
+Gard.e.robe - Co-create Your Style!
 
-Now it is possible - with dress matchmaker! 
+Would you like to buy a new dress for the next party without having a bad conscious of having already many dresses in your wardrobe?
+What would you think if you could sell your dress easily to someone who is in the same situation in order to be able to buy another one with affordable price?
+Wouldn't it be great to find new ideas and accessories for your outfit too?
+And isn't it so that you would like to do all that in a convenient and transparent way without putting extra effort in finding the suitable second-hand marketplace?
 
-How does it work?
+Now it is possible - with Gard.e.robe! 
 
-Take a picture of your existing dress, upload it online, set a price and give a description
-Post the offer and browse the offers from other users
-Apply to requests, sell your dress and buy a new one
-By giving comments after a purchase you improve the user profiles
-You can add pictures on your profile to show what kinds of dressess attract your interest 
+So how does it work?
 
-You can co create your own styles by combining the different items available online. Others can comment on your designed outfit.            It can also have a phot hub where you post pictures of your self in the dresses you bought using this service.
+Create a profile at Gard.e.robe website, take a picture of the clothes you want to sell, upload the picture online, set a price and give a size and quality description.
+At the same time you can browse ideas, give recommendations to others, create outfits from all items available, save pictures that you like in your profile and reply to other offers
+Once someone is interested to buy your clothes, you answer to the request and take care of delivering the items through our global delivery service or by yourself if you live in the same city
+After the package is received by the buyer, the seller gets the money and the buyer can leave comments on the profile page of the seller
+
+The power of the community allows the development and transparency of the service.
 
 Give up from old - get a new one!
 
-I like the idea with the outfits virtual market! :)
 
 Creative Commons Liscence from http://creativecommons.org/choose/?lang=en
 
