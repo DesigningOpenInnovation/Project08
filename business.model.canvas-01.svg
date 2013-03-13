@@ -15,7 +15,7 @@
    id="svg10067"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="business.model.canvas.svg"
+   sodipodi:docname="business.model.canvas-01.svg"
    inkscape:export-filename="../03.design_business.model.canvas.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200">
@@ -431,9 +431,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.91983542"
-     inkscape:cx="1097.4417"
-     inkscape:cy="1881.3148"
+     inkscape:zoom="0.65042186"
+     inkscape:cx="671.90617"
+     inkscape:cy="532.86149"
      inkscape:current-layer="layer2"
      showgrid="true"
      units="mm"
@@ -481,7 +481,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -16139,53 +16139,53 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="341.36542"
-       y="253.30618"
+       x="345.71402"
+       y="256.56763"
        id="text10421"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan10423"
-         x="341.36542"
-         y="253.30618"
+         x="345.71402"
+         y="256.56763"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Sell good quality clothes online that you don't</tspan><tspan
          sodipodi:role="line"
-         x="341.36542"
-         y="268.30618"
+         x="345.71402"
+         y="271.56763"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
          id="tspan10427">use anymore, buy second-hand clothes from </tspan><tspan
          sodipodi:role="line"
-         x="341.36542"
-         y="283.30618"
+         x="345.71402"
+         y="286.56763"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
          id="tspan10429">other fashion consumers,</tspan><tspan
          sodipodi:role="line"
-         x="341.36542"
-         y="298.30618"
+         x="345.71402"
+         y="301.56763"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
          id="tspan10425" /><tspan
          sodipodi:role="line"
-         x="341.36542"
-         y="313.30618"
+         x="345.71402"
+         y="316.56763"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
          id="tspan10431">create a community of second-hand fashion</tspan><tspan
          sodipodi:role="line"
-         x="341.36542"
-         y="328.30618"
+         x="345.71402"
+         y="331.56763"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
          id="tspan10433">lovers around the service</tspan><tspan
          sodipodi:role="line"
-         x="341.36542"
-         y="343.30618"
+         x="345.71402"
+         y="346.56763"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
-         id="tspan10435"></tspan><tspan
+         id="tspan10435" /><tspan
          sodipodi:role="line"
-         x="341.36542"
-         y="358.30618"
+         x="345.71402"
+         y="361.56763"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
          id="tspan10437">Service provider takes a percentage of sold</tspan><tspan
          sodipodi:role="line"
-         x="341.36542"
-         y="373.30618"
+         x="345.71402"
+         y="376.56763"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
          id="tspan10439">clothes </tspan></text>
     <text
