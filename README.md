@@ -14,6 +14,8 @@ Take a picture of your existing dress, upload it online, set a price and give a 
 Post the offer and browse the offers from other users
 Apply to requests, sell your dress and buy a new one
 By giving comments after a purchase you improve the user profiles
-You can add pictures on your profile to show what kinds of dressess attract your interest
+You can add pictures on your profile to show what kinds of dressess attract your interest 
+
+You can co create your own styles by combining the different items available online. Others can comment on your designed outfit.            It can also have a phot hub where you post pictures of your self in the dresses you bought using this service.
 
 Give up from old - get a new one!
